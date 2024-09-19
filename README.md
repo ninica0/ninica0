@@ -7,10 +7,9 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninica0&show_icons=true&count_private=true&hide_border=true&title_color=f7e0ae&icon_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" alt="ninica0 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninica0&layout=compact&hide_border=true&title_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninica0&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=E1437F" alt="ninica0 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninica0&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=E1437F" />
   <img align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marianicacio&theme=blood" alt="GitHub Streak">
 </div>
 
 <br/>
@@ -27,4 +26,4 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Github" width="40" height="40"  /> </a>   
 </p>
 
-<img width=100% src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp"/>
+<img width=100% src="https://mega.ibxk.com.br/2013/8/materias/86718188879427.gif?ims=fit-in/800x500"/>
