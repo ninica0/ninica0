@@ -2,13 +2,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicoly+Santos;I'm+18+years+old;I´m+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicoly+Santos;I'm+18+years+old;I´m+from+Brazil,+SP;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianicacio&show_icons=true&count_private=true&hide_border=true&title_color=f7e0ae&icon_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" alt="marianicacio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianicacio&layout=compact&hide_border=true&title_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninica0&show_icons=true&count_private=true&hide_border=true&title_color=f7e0ae&icon_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" alt="ninica0 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninica0&layout=compact&hide_border=true&title_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" />
   <img align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marianicacio&theme=blood" alt="GitHub Streak">
 </div>
