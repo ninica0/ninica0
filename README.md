@@ -8,15 +8,27 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninica0&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=E1437F" alt="ninica0 github stats" /> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninica0&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=E1437F" />
   <img align="center">
+    <img align="center"<img src="https://github-readme-streak-stats.herokuapp.com?user=ninica0&theme=blood" alt="GitHub Streak"
+  
 </div>
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/minhete-undefined-1335402aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicoly-dos-santos-dias-58a6b132a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
 </p>
 
 <br/>
