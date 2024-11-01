@@ -11,7 +11,7 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninica0&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=E1437F" />
   <img align="center">
-    <img align="center"<img src="https://github-readme-streak-stats.herokuapp.com?user=ninica0&theme=blood" alt="GitHub Streak"
+    <!-- <img align="center"<img src="https://github-readme-streak-stats.herokuapp.com?user=ninica0&theme=blood" alt="GitHub Streak" -->
   
 </div>
 
